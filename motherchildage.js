@@ -28,7 +28,7 @@ ancestry.forEach(function(person) {
 	}
 });
 console.log(agearray);
-console.log(average(agearray));
+console.log(average(agearray).toFixed(1));
 
 console.log(byName["Carolus Haverbeke"]);
 
