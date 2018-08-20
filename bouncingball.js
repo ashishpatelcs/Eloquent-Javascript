@@ -14,7 +14,7 @@
   var x = 100, y = 100, dx = 5, dy = 5;
   function updateAnimation(step) {
     // Your code here.
-    
+    // under work
   }
   setInterval(draw, 10);
   function draw() {
